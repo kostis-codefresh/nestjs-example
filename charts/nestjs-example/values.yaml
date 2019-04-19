@@ -18,3 +18,5 @@ resources:
     memory: 128Mi
 ingress:
   enabled: false
+
+  
